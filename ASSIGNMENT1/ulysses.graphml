@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <graph edgedefault="directed">
+        <node id="Leopold Bloom">
+            <data key="label">Leopold Bloom</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">74</data>
+            <data key="b">51</data>
+            <data key="x">-414.32648</data>
+            <data key="y">812.0948</data>
+        </node>
+        <node id="Stephen Dedalus">
+            <data key="label">Stephen Dedalus</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">77</data>
+            <data key="b">53</data>
+            <data key="x">603.1108</data>
+            <data key="y">-83.49025</data>
+        </node>
+        <node id="Molly">
+            <data key="label">Molly</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">77</data>
+            <data key="b">53</data>
+            <data key="x">-829.5331</data>
+            <data key="y">-594.9606</data>
+        </node>
+        <node id="Martin Cunningham">
+            <data key="label">Martin Cunningham</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">76</data>
+            <data key="b">52</data>
+            <data key="x">-319.60187</data>
+            <data key="y">186.23152</data>
+        </node>
+        <node id="Gerty">
+            <data key="label">Gerty</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">-863.95966</data>
+            <data key="y">720.31775</data>
+        </node>
+        <node id="Haines">
+            <data key="label">Haines</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">76</data>
+            <data key="b">52</data>
+            <data key="x">-828.9223</data>
+            <data key="y">-101.01907</data>
+        </node>
+        <node id="Power">
+            <data key="label">Power</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">77</data>
+            <data key="b">53</data>
+            <data key="x">-519.8101</data>
+            <data key="y">-594.7579</data>
+        </node>
+        <node id="Bello">
+            <data key="label">Bello</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">77</data>
+            <data key="b">53</data>
+            <data key="x">426.12018</data>
+            <data key="y">-80.71428</data>
+        </node>
+        <node id="Zoe">
+            <data key="label">Zoe</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">329.52048</data>
+            <data key="y">-610.765</data>
+        </node>
+        <node id="Lynch">
+            <data key="label">Lynch</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">-132.34747</data>
+            <data key="y">739.6064</data>
+        </node>
+        <node id="Cissy">
+            <data key="label">Cissy</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">77</data>
+            <data key="b">53</data>
+            <data key="x">403.98914</data>
+            <data key="y">-140.98448</data>
+        </node>
+        <node id="Davy Byrne">
+            <data key="label">Davy Byrne</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">506.5722</data>
+            <data key="y">11.863058</data>
+        </node>
+        <node id="Simon Dedalus">
+            <data key="label">Simon Dedalus</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">51</data>
+            <data key="x">762.96124</data>
+            <data key="y">-280.36575</data>
+        </node>
+        <node id="Joe Hynes">
+            <data key="label">Joe Hynes</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">74</data>
+            <data key="b">51</data>
+            <data key="x">-53.928936</data>
+            <data key="y">791.8901</data>
+        </node>
+        <node id="Nosey Flynn">
+            <data key="label">Nosey Flynn</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">76</data>
+            <data key="b">52</data>
+            <data key="x">-570.1678</data>
+            <data key="y">160.80986</data>
+        </node>
+        <node id="Blazes Boylan">
+            <data key="label">Blazes Boylan</data>
+            <data key="size">10.0</data>
+            <data key="r">228</data>
+            <data key="g">78</data>
+            <data key="b">54</data>
+            <data key="x">390.2988</data>
+            <data key="y">-297.0094</data>
+        </node>
+        <node id="Martha Clifford">
+            <data key="label">Martha Clifford</data>
+            <data key="size">10.0</data>
+            <data key="r">228</data>
+            <data key="g">79</data>
+            <data key="b">54</data>
+            <data key="x">-37.983875</data>
+            <data key="y">650.5465</data>
+        </node>
+        <node id="Ben Dollard">
+            <data key="label">Ben Dollard</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">76</data>
+            <data key="b">52</data>
+            <data key="x">-196.41661</data>
+            <data key="y">274.67087</data>
+        </node>
+        <node id="Buck Mulligan">
+            <data key="label">Buck Mulligan</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">731.88</data>
+            <data key="y">362.7324</data>
+        </node>
+        <node id="Nannetti">
+            <data key="label">Nannetti</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">-714.4643</data>
+            <data key="y">-970.89996</data>
+        </node>
+        <node id="Kitty O'Shea">
+            <data key="label">Kitty O'Shea</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">77</data>
+            <data key="b">53</data>
+            <data key="x">-224.58919</data>
+            <data key="y">-415.66953</data>
+        </node>
+        <node id="Mr Deasy">
+            <data key="label">Mr Deasy</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">52</data>
+            <data key="x">428.47784</data>
+            <data key="y">-516.37445</data>
+        </node>
+        <node id="Lenehan">
+            <data key="label">Lenehan</data>
+            <data key="size">10.0</data>
+            <data key="r">227</data>
+            <data key="g">75</data>
+            <data key="b">51</data>
+            <data key="x">350.67532</data>
+            <data key="y">-493.85577</data>
+        </node>
+        <node id="John Henry Menton">
+            <data key="label">John Henry Menton</data>
+            <data key="size">10.0</data>
+            <data key="r">228</data>
+            <data key="g">79</data>
+            <data key="b">55</data>
+            <data key="x">860.1389</data>
+            <data key="y">576.64355</data>
+        </node>
+        <edge id="192" source="Leopold Bloom" target="Stephen Dedalus">
+            <data key="weight">218.0</data>
+        </edge>
+        <edge id="193" source="Leopold Bloom" target="Molly">
+            <data key="weight">358.0</data>
+        </edge>
+        <edge id="194" source="Leopold Bloom" target="Martin Cunningham">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="195" source="Leopold Bloom" target="Gerty">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="196" source="Leopold Bloom" target="Haines">
+            <data key="weight">21.0</data>
+        </edge>
+        <edge id="197" source="Leopold Bloom" target="Power">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="198" source="Leopold Bloom" target="Bello">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="199" source="Leopold Bloom" target="Zoe">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="200" source="Leopold Bloom" target="Lynch">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="201" source="Leopold Bloom" target="Cissy">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="202" source="Leopold Bloom" target="Davy Byrne">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="203" source="Leopold Bloom" target="Simon Dedalus">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="204" source="Leopold Bloom" target="Joe Hynes">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="205" source="Leopold Bloom" target="Nosey Flynn">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="206" source="Leopold Bloom" target="Blazes Boylan">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="207" source="Leopold Bloom" target="Martha Clifford">
+            <data key="weight">14.0</data>
+        </edge>
+        <edge id="208" source="Leopold Bloom" target="Ben Dollard">
+            <data key="weight">19.0</data>
+        </edge>
+        <edge id="209" source="Leopold Bloom" target="Buck Mulligan">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="210" source="Leopold Bloom" target="Nannetti">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="211" source="Leopold Bloom" target="Kitty O'Shea">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="212" source="Leopold Bloom" target="Mr Deasy">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="213" source="Leopold Bloom" target="Lenehan">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="214" source="Leopold Bloom" target="John Henry Menton">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="215" source="Stephen Dedalus" target="Leopold Bloom">
+            <data key="weight">218.0</data>
+        </edge>
+        <edge id="216" source="Stephen Dedalus" target="Molly">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="217" source="Stephen Dedalus" target="Martin Cunningham">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="218" source="Stephen Dedalus" target="Gerty">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="219" source="Stephen Dedalus" target="Davy Byrne">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="220" source="Stephen Dedalus" target="Simon Dedalus">
+            <data key="weight">39.0</data>
+        </edge>
+        <edge id="221" source="Stephen Dedalus" target="Joe Hynes">
+            <data key="weight">13.0</data>
+        </edge>
+        <edge id="222" source="Stephen Dedalus" target="Nosey Flynn">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="223" source="Stephen Dedalus" target="Blazes Boylan">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="224" source="Stephen Dedalus" target="Martha Clifford">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="225" source="Stephen Dedalus" target="Ben Dollard">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="226" source="Stephen Dedalus" target="Buck Mulligan">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="227" source="Stephen Dedalus" target="Mr Deasy">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="228" source="Stephen Dedalus" target="Lenehan">
+            <data key="weight">21.0</data>
+        </edge>
+        <edge id="229" source="Molly" target="Leopold Bloom">
+            <data key="weight">358.0</data>
+        </edge>
+        <edge id="230" source="Molly" target="Stephen Dedalus">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="231" source="Molly" target="Martin Cunningham">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="232" source="Molly" target="Gerty">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="233" source="Molly" target="Davy Byrne">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="234" source="Molly" target="Simon Dedalus">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="235" source="Molly" target="Nosey Flynn">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="236" source="Molly" target="Ben Dollard">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="237" source="Molly" target="Buck Mulligan">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="238" source="Molly" target="Lenehan">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="239" source="Martin Cunningham" target="Leopold Bloom">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="240" source="Martin Cunningham" target="Stephen Dedalus">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="241" source="Martin Cunningham" target="Molly">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="242" source="Martin Cunningham" target="Davy Byrne">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="243" source="Martin Cunningham" target="Simon Dedalus">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="244" source="Martin Cunningham" target="Mr Deasy">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="245" source="Martin Cunningham" target="Lenehan">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="246" source="Gerty" target="Leopold Bloom">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="247" source="Gerty" target="Stephen Dedalus">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="248" source="Gerty" target="Molly">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="249" source="Gerty" target="Simon Dedalus">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="250" source="Gerty" target="Lenehan">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="251" source="Haines" target="Leopold Bloom">
+            <data key="weight">21.0</data>
+        </edge>
+        <edge id="252" source="Haines" target="Davy Byrne">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="253" source="Haines" target="Simon Dedalus">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="254" source="Power" target="Leopold Bloom">
+            <data key="weight">11.0</data>
+        </edge>
+        <edge id="255" source="Power" target="Davy Byrne">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="256" source="Bello" target="Leopold Bloom">
+            <data key="weight">23.0</data>
+        </edge>
+        <edge id="257" source="Bello" target="Davy Byrne">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="258" source="Zoe" target="Leopold Bloom">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="259" source="Zoe" target="Simon Dedalus">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="260" source="Lynch" target="Leopold Bloom">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="261" source="Lynch" target="Simon Dedalus">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="262" source="Cissy" target="Leopold Bloom">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="263" source="Davy Byrne" target="Leopold Bloom">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="264" source="Davy Byrne" target="Stephen Dedalus">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="265" source="Davy Byrne" target="Molly">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="266" source="Davy Byrne" target="Martin Cunningham">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="267" source="Davy Byrne" target="Haines">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="268" source="Davy Byrne" target="Power">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="269" source="Davy Byrne" target="Bello">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="270" source="Davy Byrne" target="Simon Dedalus">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="271" source="Davy Byrne" target="Nosey Flynn">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="272" source="Davy Byrne" target="Ben Dollard">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="273" source="Davy Byrne" target="Buck Mulligan">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="274" source="Davy Byrne" target="Lenehan">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="275" source="Simon Dedalus" target="Leopold Bloom">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="276" source="Simon Dedalus" target="Stephen Dedalus">
+            <data key="weight">39.0</data>
+        </edge>
+        <edge id="277" source="Simon Dedalus" target="Molly">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="278" source="Simon Dedalus" target="Martin Cunningham">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="279" source="Simon Dedalus" target="Gerty">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="280" source="Simon Dedalus" target="Haines">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="281" source="Simon Dedalus" target="Zoe">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="282" source="Simon Dedalus" target="Lynch">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="283" source="Simon Dedalus" target="Davy Byrne">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="284" source="Simon Dedalus" target="Joe Hynes">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="285" source="Simon Dedalus" target="Buck Mulligan">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="286" source="Simon Dedalus" target="Mr Deasy">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="287" source="Simon Dedalus" target="Lenehan">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="288" source="Joe Hynes" target="Leopold Bloom">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="289" source="Joe Hynes" target="Stephen Dedalus">
+            <data key="weight">13.0</data>
+        </edge>
+        <edge id="290" source="Joe Hynes" target="Simon Dedalus">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="291" source="Joe Hynes" target="Lenehan">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="292" source="Nosey Flynn" target="Leopold Bloom">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="293" source="Nosey Flynn" target="Stephen Dedalus">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="294" source="Nosey Flynn" target="Molly">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="295" source="Nosey Flynn" target="Davy Byrne">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="296" source="Blazes Boylan" target="Leopold Bloom">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="297" source="Blazes Boylan" target="Stephen Dedalus">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="298" source="Martha Clifford" target="Leopold Bloom">
+            <data key="weight">14.0</data>
+        </edge>
+        <edge id="299" source="Martha Clifford" target="Stephen Dedalus">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="300" source="Ben Dollard" target="Leopold Bloom">
+            <data key="weight">19.0</data>
+        </edge>
+        <edge id="301" source="Ben Dollard" target="Stephen Dedalus">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="302" source="Ben Dollard" target="Molly">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="303" source="Ben Dollard" target="Davy Byrne">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="304" source="Buck Mulligan" target="Leopold Bloom">
+            <data key="weight">17.0</data>
+        </edge>
+        <edge id="305" source="Buck Mulligan" target="Stephen Dedalus">
+            <data key="weight">9.0</data>
+        </edge>
+        <edge id="306" source="Buck Mulligan" target="Molly">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="307" source="Buck Mulligan" target="Davy Byrne">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="308" source="Buck Mulligan" target="Simon Dedalus">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="309" source="Nannetti" target="Leopold Bloom">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge id="310" source="Kitty O'Shea" target="Leopold Bloom">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="311" source="Mr Deasy" target="Leopold Bloom">
+            <data key="weight">7.0</data>
+        </edge>
+        <edge id="312" source="Mr Deasy" target="Stephen Dedalus">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="313" source="Mr Deasy" target="Martin Cunningham">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="314" source="Mr Deasy" target="Simon Dedalus">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="315" source="Lenehan" target="Leopold Bloom">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="316" source="Lenehan" target="Stephen Dedalus">
+            <data key="weight">21.0</data>
+        </edge>
+        <edge id="317" source="Lenehan" target="Molly">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="318" source="Lenehan" target="Martin Cunningham">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="319" source="Lenehan" target="Gerty">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="320" source="Lenehan" target="Davy Byrne">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="321" source="Lenehan" target="Simon Dedalus">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="322" source="Lenehan" target="Joe Hynes">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="323" source="John Henry Menton" target="Leopold Bloom">
+            <data key="weight">9.0</data>
+        </edge>
+    </graph>
+</graphml>
